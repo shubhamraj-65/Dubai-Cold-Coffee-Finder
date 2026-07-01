@@ -107,4 +107,22 @@ GitHub: https://github.com/shubhamraj-65
 
 ---
 
+## 📸 Application Preview
+
+### 🏠 Home Page
+
+![Home](screenshots/Home.png)
+
+### 📊 Analytics
+
+![Analytics](screenshots/Analytics.png)
+
+### 🏆 Ranking Results
+
+![Ranking](screenshots/Ranking.png)
+
+### 🟢 Open / Closed Status
+
+![Status](screenshots/status.png)
+
 ⭐ If you like this project, consider giving it a **Star** on GitHub.
