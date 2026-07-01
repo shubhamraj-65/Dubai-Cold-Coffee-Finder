@@ -4,6 +4,10 @@ A **Streamlit-based web application** that helps users discover the best cold co
 
 ---
 
+## 🚀 Live Demo
+
+🌐 **Try the App Here:** https://dubai-coffee-finder-2026.streamlit.app/
+
 ## 🚀 Features
 
 - 🔍 Find the best cold coffee cafés and restaurants in Dubai
