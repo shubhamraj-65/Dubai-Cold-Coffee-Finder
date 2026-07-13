@@ -1,5 +1,10 @@
 # ☕ Dubai Cold Coffee Finder
 
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=for-the-badge&logo=streamlit)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+
 A **Streamlit-based web application** that helps users discover the best cold coffee cafés and restaurants in Dubai. The application recommends nearby places based on **distance, ratings, price, and availability (Open/Closed)**, making it easier for users to choose the best option.
 
 ---
