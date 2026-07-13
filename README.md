@@ -1,12 +1,12 @@
 # ☕ Dubai Cold Coffee Finder
-### Discover the Best Cold Coffee Cafés in Dubai with Smart Location-Based Recommendations
+### Discover the Best Cold Coffee Cafes in Dubai with Smart Location-Based Recommendations
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=for-the-badge&logo=streamlit)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
 
-A **Streamlit-based recommendation system** that helps users discover the best cold coffee cafés and restaurants in Dubai using **distance, ratings, price, and availability (Open/Closed)**. The application simplifies café discovery by providing personalized recommendations through an interactive and user-friendly dashboard.
+A **Streamlit-based recommendation system** that helps users discover the best cold coffee cafes and restaurants in Dubai using **distance, ratings, price, and availability (Open/Closed)**. The application simplifies café discovery by providing personalized recommendations through an interactive and user-friendly dashboard.
 
 ---
 
@@ -14,7 +14,7 @@ A **Streamlit-based recommendation system** that helps users discover the best c
 
 ### 🌐 https://dubai-coffee-finder-2026.streamlit.app/
 
-> **No installation required. Open the link and start exploring cafés instantly.**
+> **No installation required. Open the link and start exploring cafes instantly.**
 
 ---
 
@@ -22,7 +22,7 @@ A **Streamlit-based recommendation system** that helps users discover the best c
 
 | Metric | Value |
 |--------|-------:|
-| Total Cafés & Restaurants | 500+ |
+| Total Cafes & Restaurants | 500+ |
 | Dubai Areas Covered | 20+ |
 | Recommendation Parameters | 4 |
 | Technologies Used | 7 |
@@ -33,7 +33,7 @@ A **Streamlit-based recommendation system** that helps users discover the best c
 
 ## 📌 Project Highlights
 
-- ☕ 500+ Café & Restaurant Records Analyzed
+- ☕ 500+ Cafe & Restaurant Records Analyzed
 - 📍 20+ Dubai Areas Covered
 - ⭐ Rating-Based Smart Recommendations
 - 💰 Budget-Friendly Filtering
@@ -44,7 +44,7 @@ A **Streamlit-based recommendation system** that helps users discover the best c
 
 # 📌 Project Overview
 
-Choosing the right café in a city like Dubai can be challenging because users often need to browse multiple platforms to compare ratings, prices, distances, and opening status.
+Choosing the right cafe in a city like Dubai can be challenging because users often need to browse multiple platforms to compare ratings, prices, distances, and opening status.
 
 **Dubai Cold Coffee Finder** simplifies this process by bringing all essential information into a single interactive dashboard.
 
@@ -65,8 +65,8 @@ The project showcases practical skills in **data cleaning, feature engineering, 
 People searching for cafés usually face several challenges:
 
 - Searching across multiple websites and apps
-- Difficulty comparing nearby cafés
-- Uncertainty about café availability (Open/Closed)
+- Difficulty comparing nearby cafes
+- Uncertainty about cafe availability (Open/Closed)
 - Comparing prices and ratings manually
 - Spending unnecessary time finding the best option
 
@@ -76,11 +76,11 @@ These issues lead to a poor user experience and inefficient decision-making.
 
 # 💡 Solution
 
-Dubai Cold Coffee Finder provides an intelligent recommendation system that combines café information into one easy-to-use application.
+Dubai Cold Coffee Finder provides an intelligent recommendation system that combines cafe information into one easy-to-use application.
 
 Users can:
 
-- ☕ Discover the best cold coffee cafés
+- ☕ Discover the best cold coffee cafes
 - 📍 Find nearby cafés based on distance
 - ⭐ Compare customer ratings
 - 💰 Filter cafés by price
@@ -91,9 +91,9 @@ Users can:
 
 # 🎯 Key Benefits
 
-✔ Saves users time by reducing manual café searches
+✔ Saves users time by reducing manual cafe searches
 
-✔ Helps users discover highly-rated cafés quickly
+✔ Helps users discover highly-rated cafes quickly
 
 ✔ Supports smarter decisions using multiple filters
 
@@ -105,13 +105,13 @@ Users can:
 
 ## 🚀 Features
 
-- 🔍 Find the best cold coffee cafés and restaurants in Dubai
+- 🔍 Find the best cold coffee cafes and restaurants in Dubai
 - 📍 Nearby recommendations based on distance
 - ⭐ Compare places by ratings
 - 💰 Filter recommendations by price
 - 🟢 Check whether a café is Open or Closed
 - 📊 Interactive and user-friendly interface built with Streamlit
-- - 🏙️ Area-wise café exploration
+- 🏙️ Area-wise café exploration
 - ⚡ Fast recommendation engine
 - 🎯 Easy-to-use interactive interface
 
@@ -171,10 +171,10 @@ DubaiColdCoffeeFinder/
 
 ## 📊 Dataset
 
-The project uses curated CSV datasets containing information about cafés and restaurants in Dubai, including:
+The project uses curated CSV datasets containing information about cafes and restaurants in Dubai, including:
 
 - Area
-- Café/Restaurant Name
+- Cafe/Restaurant Name
 - Rating
 - Distance
 - Price
@@ -234,9 +234,9 @@ streamlit run dubai_web_app.py
 
 - 🗺️ Google Maps Integration
 - 🤖 AI-powered Recommendation System
-- ❤️ Favorite Café Feature
+- ❤️ Favorite Cafe Feature
 - 📱 Mobile Responsive UI
-- ☁️ Live Café Data Updates
+- ☁️ Live Cafe Data Updates
 - 📊 Power BI Analytics Dashboard
 - 🌍 Multi-City Support
 
@@ -274,18 +274,3 @@ If you found this project useful, please consider **⭐ starring the repository*
 
 Your support motivates me to build more Data Analytics and AI projects.
 
----
-🔥 Mere hisaab se ek improvement aur kar:
-
-Agar tumhare dataset me actual numbers hain, to top me ek Project Stats section add karo, jaise:
-
-## 📌 Project Highlights
-
-- ☕ 500+ Café & Restaurant Records Analyzed
-- 📍 Multiple Dubai Areas Covered
-- ⭐ Rating-Based Smart Recommendations
-- 💰 Budget-Friendly Filtering
-- 🟢 Open/Closed Availability Check
-- ⚡ Interactive Streamlit Web Application
-
-Ye README ko aur bhi recruiter-friendly bana dega aur portfolio ko premium feel dega.
